@@ -5,6 +5,8 @@ I do not recommend doing stuff with source code if you aren't a software develop
 
 The purpose of source code is to teach people that temple x is not a virus, you are allowed to study the source code or fork it but not sell it and thats why there's a license. Anyway let's get into the installion.
 
+If you're on window 10 please install webview2 unless you're on windows 11.
+
 Installion Steps:
 1. Download latest version (highly recommended) from Releases Tab
 2. Extract the zip with winrar or 7z.
