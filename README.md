@@ -3,7 +3,7 @@ Hey there. This is Temple X aka Reworked Temple for Synapse X, Requested by R3ko
 
 I do not recommend doing stuff with source code if you aren't a software developer or you don't know the programming language it uses (C#).
 
-The purpose of source code is to teach people that temple x is not a virus, you are allowed to study the source code or fork it but not sell it and thats why there's a license. Anyway let's get into the installion.
+The purpose of source code is to teach people that temple x is not a virus, you are allowed to study the source code or fork it but not sell it and thats why there's a license. Anyway let's get into the installation.
 
 If you're on window 10 please install webview2 unless you're on windows 11.
 
